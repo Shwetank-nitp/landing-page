@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
+Allow: /
+
+# here is the sitemap for better crawling
+
+Sitemap: https://scoreazy.com/sitemap.xml
